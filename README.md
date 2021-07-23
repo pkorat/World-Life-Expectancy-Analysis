@@ -11,7 +11,7 @@ Longer life; this is a universal goal that the world’s countries have been try
 
 
 
-! [Images] (LE.png)
+! [Life Expectancy] (Images/LE.png)
 
 
 
