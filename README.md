@@ -36,3 +36,6 @@ Geoff - Analyze Education Variable
 Ashu - Analyze Access to Healthcare Variables
 Report - Group
 Presentation - Group
+
+A summary of our analysis can be viewed in this powerpoint presentation 
+![Presentation]
