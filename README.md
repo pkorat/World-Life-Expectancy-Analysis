@@ -38,4 +38,5 @@ Report - Group
 Presentation - Group
 
 A summary of our analysis can be viewed in this powerpoint presentation 
-![Presentation]
+
+![Presentation](Bulldogs_Project_Presentation.pptx)
