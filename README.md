@@ -37,6 +37,4 @@ Ashu - Analyze Access to Healthcare Variables
 Report - Group
 Presentation - Group
 
-A summary of our analysis can be viewed in this powerpoint presentation 
-
-![Presentation](Bulldogs_Project_Presentation.pptx)
+A summary of our analysis can be viewed in the **Bulldogs_Project_Presentation.pptx** file in the root drive of this repository.
